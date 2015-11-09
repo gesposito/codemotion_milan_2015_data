@@ -1,6 +1,6 @@
 [
     {
-        "room_0": "Doors open / Networking breakfast",
+        "room_0": "Doors open / Networking coffee",
         "time": "09:00 / 09:30"
     },
     {
@@ -8,22 +8,16 @@
         "time": "09:30 / 09:40"
     },
     {
-        "room_0": "Keynote KeyNote: From old to new IBM, leading to cognitive era by Frederic Lavigne",
-        "room_0_link/_text": "KeyNote: From old to new IBM, leading to cognitive era by Frederic Lavigne",
-        "time": "09:40 / 10:15",
-        "room_0_link": "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1627&sub=1"
+        "room_0": "Keynote Keynote Paypal: The Operating System of Payments: UX and Security in Modern Apps - by Joe Nash",
+        "room_0_link/_text": "Keynote Paypal: The Operating System of Payments: UX and Security in Modern Apps - by Joe Nash",
+        "time": "09:40 / 10:10",
+        "room_0_link": "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1752&sub=1"
     },
     {
-        "room_0": "Keynote Keynote track Motivational - Room 1: - A programmer is... - by Birgitta Boeckeler Keynote track Methods - Room 2: Quality is a variable - by James Higgs",
-        "room_0_link/_text": [
-            "Keynote track Motivational - Room 1: - A programmer is... - by Birgitta Boeckeler",
-            "Keynote track Methods - Room 2: Quality is a variable - by James Higgs"
-        ],
+        "room_0": "Keynote Keynote track Languages - Room 1: Coding and Dreaming with PHP for over 20 years - by Rasmus Lerdorf",
+        "room_0_link/_text": "Keynote track Languages - Room 1: Coding and Dreaming with PHP for over 20 years - by Rasmus Lerdorf",
         "time": "10:15 / 11:00",
-        "room_0_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1980&sub=1",
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1980&sub=2"
-        ]
+        "room_0_link": "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2162&sub=1"
     },
     {
         "room_0": "Coffee break",
@@ -42,90 +36,68 @@
             null,
             "#"
         ],
-        "room_4": "Real World Use Cases: Hadoop and NoSQL in Production Big Data Tugdual Grall (MapR Technologies)",
-        "room_5": "TDD per Android Mobile Matteo Vaccari (Agile Reloaded)",
+        "room_4": "Docker: Why, What, and For What? Cloud Adrian Mouat (Container Solutions)",
         "room_3_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1657",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1774",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
-        "room_5_link/_source": [
-            null,
-            "#"
-        ],
-        "room_6": "Continuous Security: ZAP your security issues now! Security Carlo Bonamico (NIS s.r.l.), Gabriele Guasco (NIS srl)",
+        "room_6": "Robotics for JS Makers / IoT Julian Cheal (Oracle)",
         "room_1_link/_text": [
-            "Building stronger teams for better user experience",
-            "User Experience"
+            "DevOoops (Increase awareness around DevOps infra security)",
+            "Security"
         ],
         "room_3_link/_source": [
             null,
             "#"
         ],
-        "room_7": "Operating a global infrastructure Startup Gianluca Varisco (Rocket Internet SE)",
-        "room_5_link/_text": [
-            "TDD per Android",
-            "Mobile"
-        ],
-        "room_8": "Developers vs. Managers Methods Jacopo Romei (Onebip), Lorenzo Massacci (e-xtrategy)",
-        "room_9": "Having fun with cradboards, nerf guns, tango and VR. Mobile Ran Nachmany (Google)",
-        "room_9_link/_text": [
-            "Having fun with cradboards, nerf guns, tango and VR.",
-            "Mobile"
-        ],
+        "room_7": "The evolution in the design of FATAL ERROR Game Dev Ciro Continisio (Tiny Colossus)",
+        "room_8": "Women super code lab – Improve your skills with TDD Pair Programming code session Languages Manuela Munaretto (XPeppers), Gabriele Lana (CleanCode), Filippo Liverani (XPeppers)",
         "room_4_link/_source": [
             null,
             "#"
         ],
-        "room_1": "Building stronger teams for better user experience User Experience Lily Dart (Freelance)",
+        "room_1": "DevOoops (Increase awareness around DevOps infra security) Security Gianluca Varisco (Rocket Internet SE)",
         "room_7_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1713",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1778",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
-        "room_2": "The Step After Styleguides Front-end Ben Scott (BBC)",
-        "room_3": "Supercharge your App business with AdMob Mobile Francesco Bonatesta (Google), Gilberto Cocchi (Google)",
+        "room_2": "Explorations in Cooperative, Distributed Systems with Uber's Ringpop Architecture Jeff Wolski (Uber)",
+        "room_3": "UX for Developers. Seriously! User Experience Agnieszka Naplocha (Adobe)",
         "room_1_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1629",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1772",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
         "room_2_link/_text": [
-            "The Step After Styleguides",
-            "Front-end"
+            "Explorations in Cooperative, Distributed Systems with Uber's Ringpop",
+            "Architecture"
         ],
         "room_4_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1671",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1775",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
         "room_6_link/_text": [
-            "Continuous Security: ZAP your security issues now!",
-            "Security"
-        ],
-        "room_9_link/_source": [
-            null,
-            "#"
+            "Robotics for JS",
+            "Makers / IoT"
         ],
         "room_2_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1643",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1773",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
         "room_3_link/_text": [
-            "Supercharge your App business with AdMob",
-            "Mobile"
-        ],
-        "room_5_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1685",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "UX for Developers. Seriously!",
+            "User Experience"
         ],
         "room_8_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2149",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1779",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
         "room_7_link/_text": [
-            "Operating a global infrastructure",
-            "Startup"
+            "The evolution in the design of FATAL ERROR",
+            "Game Dev"
         ],
         "room_4_link/_text": [
-            "Real World Use Cases: Hadoop and NoSQL in Production",
-            "Big Data"
+            "Docker: Why, What, and For What?",
+            "Cloud"
         ],
         "room_1_link/_source": [
             null,
@@ -136,17 +108,13 @@
             "#"
         ],
         "room_6_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1699",
-            "http://milan2015.codemotionworld.com/conference/321/#"
-        ],
-        "room_9_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2189",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1777",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
         "time": "11:20 / 12:00",
         "room_8_link/_text": [
-            "Developers vs. Managers",
-            "Methods"
+            "Women super code lab – Improve your skills with TDD Pair Programming code session",
+            "Languages"
         ]
     },
     {
@@ -162,64 +130,81 @@
             null,
             "#"
         ],
+        "room_4": "Perché nel 2015 parliamo ancora di C++? Languages Marco Arena (Webshell)",
+        "room_5": "IBM Bluemix: The Cloud APP revolution Cloud Frédéric Lavigne (IBM), Lavigne Frederic (IBM)",
         "room_3_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1658",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1784",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
-        "room_6": "Secure Continuous Delivery - Sicurezza e DevOps a supporto della Digital Transformation Devops Domenico Maracci (CA Technologies), Stefano Sali (CA Technologies)",
+        "room_5_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6": "The LISP in the Machine: Real-time data with Clojure and Kafka Languages Joe Nash (Braintree)",
         "room_1_link/_text": [
-            "In Defense of the Floppy Disk: The Vocabulary of the Interface",
-            "User Experience"
+            "Handling Millions of Concurrent Users with Erlang/OTP",
+            "Languages"
         ],
         "room_3_link/_source": [
             null,
             "#"
         ],
-        "room_7": "Start-up & API Economy: opportunità e benefici Startup Alexio Cassani (Stentle)",
-        "room_8": "Developers vs. Managers Methods Jacopo Romei (Onebip), Lorenzo Massacci (e-xtrategy)",
-        "room_9": "Procedural Content Generation with Unity Game Dev Pier Luca Lanzi (Politecnico di Milano), Michele Pirovano (Politecnico di Milano)",
-        "room_9_link/_text": [
-            "Procedural Content Generation with Unity",
-            "Game Dev"
+        "room_7": "Mobile senza Unity: il caso SBK Game Dev Giuseppe Navarria (Digital Tales)",
+        "room_5_link/_text": [
+            "IBM Bluemix: The Cloud APP revolution",
+            "Cloud"
         ],
-        "room_1": "In Defense of the Floppy Disk: The Vocabulary of the Interface User Experience Lis Pardi (Digitas Health)",
-        "room_7_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1714",
-            "http://milan2015.codemotionworld.com/conference/321/#"
-        ],
-        "room_2": "L'ecosistema della scena Hacker Security Stefano Chiccarelli (Quantum Leasp s.r.l.)",
-        "room_3": "FIWARE Primer - Learn FIWARE in 60 Minutes Cloud Federico Michele Facca (CREATE-NET)",
-        "room_1_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1630",
-            "http://milan2015.codemotionworld.com/conference/321/#"
-        ],
-        "room_2_link/_text": [
-            "L'ecosistema della scena Hacker",
-            "Security"
-        ],
-        "room_6_link/_text": [
-            "Secure Continuous Delivery - Sicurezza e DevOps a supporto della Digital Transformation",
-            "Devops"
-        ],
-        "room_9_link/_source": [
+        "room_8": "Women super code lab – Improve your skills with TDD Pair Programming code session Languages Manuela Munaretto (XPeppers), Gabriele Lana (CleanCode), Filippo Liverani (XPeppers)",
+        "room_4_link/_source": [
             null,
             "#"
         ],
+        "room_1": "Handling Millions of Concurrent Users with Erlang/OTP Languages Manuel Rubio (Altenwald Solutions, S.L.)",
+        "room_7_link": [
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1788",
+            "http://milan2015.codemotionworld.com/conference/322/#"
+        ],
+        "room_2": "CSS3 Layouts: Flexbox vs CSS Grid Front-end Sara Vieira (Kaymu)",
+        "room_3": "Events storage and analysis with Riak at Booking.com Big Data Damien Krotkine (Booking.com)",
+        "room_1_link": [
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1782",
+            "http://milan2015.codemotionworld.com/conference/322/#"
+        ],
+        "room_2_link/_text": [
+            "CSS3 Layouts: Flexbox vs CSS Grid",
+            "Front-end"
+        ],
+        "room_4_link": [
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1785",
+            "http://milan2015.codemotionworld.com/conference/322/#"
+        ],
+        "room_6_link/_text": [
+            "The LISP in the Machine: Real-time data with Clojure and Kafka",
+            "Languages"
+        ],
         "room_2_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1644",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1783",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
         "room_3_link/_text": [
-            "FIWARE Primer - Learn FIWARE in 60 Minutes",
-            "Cloud"
+            "Events storage and analysis with Riak at Booking.com",
+            "Big Data"
+        ],
+        "room_5_link": [
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1786",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
         "room_8_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2150",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1789",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
         "room_7_link/_text": [
-            "Start-up & API Economy: opportunità e benefici",
-            "Startup"
+            "Mobile senza Unity: il caso SBK",
+            "Game Dev"
+        ],
+        "room_4_link/_text": [
+            "Perché nel 2015 parliamo ancora di C++?",
+            "Languages"
         ],
         "room_1_link/_source": [
             null,
@@ -230,17 +215,13 @@
             "#"
         ],
         "room_6_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1700",
-            "http://milan2015.codemotionworld.com/conference/321/#"
-        ],
-        "room_9_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2190",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1787",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
         "time": "12:10 / 13:10",
         "room_8_link/_text": [
-            "Developers vs. Managers",
-            "Methods"
+            "Women super code lab – Improve your skills with TDD Pair Programming code session",
+            "Languages"
         ]
     },
     {
@@ -260,77 +241,68 @@
             null,
             "#"
         ],
-        "room_4": "Essential Tools for Mobile-Aware Web Professionals Mobile Luca Passani (ScientiaMobile)",
+        "room_5": "Red Hat Mobile: Accellerate Mobile Development and Integration Mobile Filippo Calà (Red Hat)",
         "room_3_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1660",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1804",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
-        "room_6": "OWASP for Developers Security Matteo Meucci (Minded Security)",
+        "room_5_link/_source": [
+            null,
+            "#"
+        ],
+        "room_6": "Monet: a NodeJS enterprise system for IoT and Energy Management Architecture Matteo Murgida (Siemens S.p.A.)",
         "room_1_link/_text": [
-            "Building the world's largest grocery site in React",
-            "Architecture"
+            "Speeding up the Web with PHP 7",
+            "Languages"
         ],
         "room_3_link/_source": [
             null,
             "#"
         ],
-        "room_7": "Be a designer in the start-up world User Experience Emanuela Damiani (HitFox Group)",
-        "room_8": "Be aware!!! Build a Context Aware Application using FIWARE Architecture Attilio Broglio (Create-net)",
-        "room_9": "F#, not a game!!! Game Dev Andrea Magnrosky (Digital Furnace Games)",
-        "room_9_link/_text": [
-            "F#, not a game!!!",
-            "Game Dev"
+        "room_7": "Game design as a self-transformative practice Innovation Stefano Gualeni (University of Malta)",
+        "room_5_link/_text": [
+            "Red Hat Mobile: Accellerate Mobile Development and Integration",
+            "Mobile"
         ],
-        "room_4_link/_source": [
-            null,
-            "#"
-        ],
-        "room_1": "Building the world's largest grocery site in React Architecture Robbie McCorkell (Red Badger)",
+        "room_8": "Lab Handson: Cloud - Build a Microservices System with Bluemix Cloud Roberto Pozzi (IBM)",
+        "room_1": "Speeding up the Web with PHP 7 Languages Rasmus Lerdorf (Etsy Inc.)",
         "room_7_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1716",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1808",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
-        "room_2": "Alert overload: How to adopt a microservices architecture without being overwhelmed with noise Devops Sarah Wells (Financial Times)",
-        "room_3": "TestOps - Chasing the White Whale Devops Ioana Serban (eBay)",
+        "room_2": "Android Wear iBeacon development Mobile Kseniia Shumelchyk (SoftServe)",
+        "room_3": "Swift and the future of iOS app development Mobile Chiara Chiappini (Google)",
         "room_1_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1632",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1802",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
         "room_2_link/_text": [
-            "Alert overload: How to adopt a microservices architecture without being overwhelmed with noise",
-            "Devops"
-        ],
-        "room_4_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1674",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "Android Wear iBeacon development",
+            "Mobile"
         ],
         "room_6_link/_text": [
-            "OWASP for Developers",
-            "Security"
-        ],
-        "room_9_link/_source": [
-            null,
-            "#"
+            "Monet: a NodeJS enterprise system for IoT and Energy Management",
+            "Architecture"
         ],
         "room_2_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1646",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1803",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
         "room_3_link/_text": [
-            "TestOps - Chasing the White Whale",
-            "Devops"
+            "Swift and the future of iOS app development",
+            "Mobile"
+        ],
+        "room_5_link": [
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1806",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
         "room_8_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2152",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1809",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
         "room_7_link/_text": [
-            "Be a designer in the start-up world",
-            "User Experience"
-        ],
-        "room_4_link/_text": [
-            "Essential Tools for Mobile-Aware Web Professionals",
-            "Mobile"
+            "Game design as a self-transformative practice",
+            "Innovation"
         ],
         "room_1_link/_source": [
             null,
@@ -341,17 +313,13 @@
             "#"
         ],
         "room_6_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1702",
-            "http://milan2015.codemotionworld.com/conference/321/#"
-        ],
-        "room_9_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2192",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1807",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
         "time": "14:10 / 14:50",
         "room_8_link/_text": [
-            "Be aware!!! Build a Context Aware Application using FIWARE",
-            "Architecture"
+            "Lab Handson: Cloud - Build a Microservices System with Bluemix",
+            "Cloud"
         ]
     },
     {
@@ -367,77 +335,68 @@
             null,
             "#"
         ],
-        "room_5": "Continuous Delivery su progetti Java: cosa abbiamo imparato facendoci del male Methods Pietro Di Bello (XPeppers), Paolo D'Incau (XPeppers)",
+        "room_4": "Comparing different concurrency models on the JVM Languages Mario Fusco (Red Hat)",
         "room_3_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1661",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1814",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
-        "room_5_link/_source": [
-            null,
-            "#"
-        ],
-        "room_6": "The new Mobile Challenge: Offline-Enablement for Web Applications Mobile Christiane Kurz (SAP SE)",
+        "room_6": "Hit him harder! The revenge of the technological rugby player Innovation Andrea Maietta (Frankenstein Garage), Paolo Sale (AS Rugby Milano)",
         "room_1_link/_text": [
-            "The Dark Side of Malware Analysis",
-            "Security"
+            "The Magic of Elixir",
+            "Functional Programming"
         ],
         "room_3_link/_source": [
             null,
             "#"
         ],
-        "room_7": "HOW TO DEFEAT FEATURE GLUTTONY Startup Kasia Mrowca (Self employed)",
-        "room_5_link/_text": [
-            "Continuous Delivery su progetti Java: cosa abbiamo imparato facendoci del male",
-            "Methods"
-        ],
-        "room_8": "Be aware!!! Build a Context Aware Application using FIWARE Architecture Attilio Broglio (Create-net)",
-        "room_9": "Platformer 2D: jumping from XNA to Unity Game Dev Paolo Cattaneo (Raven Travel Studios)",
-        "room_9_link/_text": [
-            "Platformer 2D: jumping from XNA to Unity",
-            "Game Dev"
-        ],
-        "room_1": "The Dark Side of Malware Analysis Security Andrea Pompili (Mine)",
-        "room_7_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1717",
-            "http://milan2015.codemotionworld.com/conference/321/#"
-        ],
-        "room_2": "Comparing different concurrency models on the JVM Languages Mario Fusco (Red Hat)",
-        "room_3": "Trophy Winning Teams Front-end Adam Onishi (dxw)",
-        "room_1_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1633",
-            "http://milan2015.codemotionworld.com/conference/321/#"
-        ],
-        "room_2_link/_text": [
-            "Comparing different concurrency models on the JVM",
-            "Languages"
-        ],
-        "room_6_link/_text": [
-            "The new Mobile Challenge: Offline-Enablement for Web Applications",
-            "Mobile"
-        ],
-        "room_9_link/_source": [
+        "room_7": "InvaderGames - Dalle Game Jam al Giapppone Game Dev Michele Giannone (InvaderGames)",
+        "room_8": "Lab Handson: Cloud - Build a Microservices System with Bluemix Cloud Roberto Pozzi (IBM)",
+        "room_4_link/_source": [
             null,
             "#"
         ],
+        "room_1": "The Magic of Elixir Functional Programming Gabriele Lana (CleanCode)",
+        "room_7_link": [
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1818",
+            "http://milan2015.codemotionworld.com/conference/322/#"
+        ],
+        "room_2": "remote working per un imprenditore, istruzioni all'uso Motivational Francesco Fullone (ideato)",
+        "room_3": "Vagrant for real Devops Michele Orselli (Ideato)",
+        "room_1_link": [
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1812",
+            "http://milan2015.codemotionworld.com/conference/322/#"
+        ],
+        "room_2_link/_text": [
+            "remote working per un imprenditore, istruzioni all'uso",
+            "Motivational"
+        ],
+        "room_4_link": [
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1815",
+            "http://milan2015.codemotionworld.com/conference/322/#"
+        ],
+        "room_6_link/_text": [
+            "Hit him harder! The revenge of the technological rugby player",
+            "Innovation"
+        ],
         "room_2_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1647",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1813",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
         "room_3_link/_text": [
-            "Trophy Winning Teams",
-            "Front-end"
-        ],
-        "room_5_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1689",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "Vagrant for real",
+            "Devops"
         ],
         "room_8_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2153",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1819",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
         "room_7_link/_text": [
-            "HOW TO DEFEAT FEATURE GLUTTONY",
-            "Startup"
+            "InvaderGames - Dalle Game Jam al Giapppone",
+            "Game Dev"
+        ],
+        "room_4_link/_text": [
+            "Comparing different concurrency models on the JVM",
+            "Languages"
         ],
         "room_1_link/_source": [
             null,
@@ -448,17 +407,13 @@
             "#"
         ],
         "room_6_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1703",
-            "http://milan2015.codemotionworld.com/conference/321/#"
-        ],
-        "room_9_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2193",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1817",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
         "time": "15:00 / 16:00",
         "room_8_link/_text": [
-            "Be aware!!! Build a Context Aware Application using FIWARE",
-            "Architecture"
+            "Lab Handson: Cloud - Build a Microservices System with Bluemix",
+            "Cloud"
         ]
     },
     {
@@ -474,84 +429,75 @@
             null,
             "#"
         ],
-        "room_4": "JS tests like a PRO Methods Adam Klein (500Tech)",
-        "room_5": "Protractor styleguide Front-end Carmen Popoviciu (ING)",
+        "room_4": "Lean Frontend Development Methods Matteo Guidotto (True Blue), Marco Solazzi (AQuest)",
+        "room_5": "Designing Microservices based systems Architecture Thiyagu Palanisamy (ThoughtWorks)",
         "room_3_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1663",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1834",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
         "room_5_link/_source": [
             null,
             "#"
         ],
-        "room_6": "No-Backend Web Architecture Architecture Daniele Dellafiore (StartMiUp)",
+        "room_6": "Windows 10 IOT Core Makers / IoT Mirco Vanini (Proxima Software)",
         "room_1_link/_text": [
-            "How to Avoid Being Creepy and Design for Trust",
-            "User Experience"
+            "Da Angular a React - Un viaggio inaspettato",
+            "Front-end"
         ],
         "room_3_link/_source": [
             null,
             "#"
         ],
-        "room_7": "Startup, tutti i miei sbagli Startup Andrea Pastore (Heliac Technologies)",
+        "room_7": "Storytelling in games is (not) the new black Game Dev Matteo Pozzi (We Are Müesli)",
         "room_5_link/_text": [
-            "Protractor styleguide",
-            "Front-end"
-        ],
-        "room_9": "VR e applicazioni B2B Innovation Luca Marchetti (Studio Evil)",
-        "room_9_link/_text": [
-            "VR e applicazioni B2B",
-            "Innovation"
+            "Designing Microservices based systems",
+            "Architecture"
         ],
         "room_4_link/_source": [
             null,
             "#"
         ],
-        "room_1": "How to Avoid Being Creepy and Design for Trust User Experience Michael Boeke (Synap)",
+        "room_1": "Da Angular a React - Un viaggio inaspettato Front-end Salvatore Laisa (ContactLab)",
         "room_7_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1719",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1838",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
-        "room_2": "The talents we have Motivational Tobias Tom (succont)",
-        "room_3": "How I made a career in the Tech industry writing horrible code Motivational Luca Sartoni (Automattic)",
+        "room_2": "The Little Shop of TDD Horrors Mobile Giorgio Natili (McGraw Hill Education)",
+        "room_3": "The AutoScout24 Technology Change - crazy or trendsetting? Cloud Simon Hohenadl (AutoScout24)",
         "room_1_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1635",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1832",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
         "room_2_link/_text": [
-            "The talents we have",
-            "Motivational"
+            "The Little Shop of TDD Horrors",
+            "Mobile"
         ],
         "room_4_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1677",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1835",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
         "room_6_link/_text": [
-            "No-Backend Web Architecture",
-            "Architecture"
-        ],
-        "room_9_link/_source": [
-            null,
-            "#"
+            "Windows 10 IOT Core",
+            "Makers / IoT"
         ],
         "room_2_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1649",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1833",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
         "room_3_link/_text": [
-            "How I made a career in the Tech industry writing horrible code",
-            "Motivational"
+            "The AutoScout24 Technology Change - crazy or trendsetting?",
+            "Cloud"
         ],
         "room_5_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1691",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1836",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
         "room_7_link/_text": [
-            "Startup, tutti i miei sbagli",
-            "Startup"
+            "Storytelling in games is (not) the new black",
+            "Game Dev"
         ],
         "room_4_link/_text": [
-            "JS tests like a PRO",
+            "Lean Frontend Development",
             "Methods"
         ],
         "room_1_link/_source": [
@@ -563,102 +509,98 @@
             "#"
         ],
         "room_6_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1705",
-            "http://milan2015.codemotionworld.com/conference/321/#"
-        ],
-        "room_9_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2195",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1837",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
         "time": "16:20 / 17:00"
     },
     {
+        "room_7_link/_source": [
+            null,
+            "#"
+        ],
         "room_6_link/_source": [
             null,
             "#"
         ],
-        "room_5": "Wordpress gestione delle installazioni e scalabilità con Docker Cloud Gianluca Arbezzano (Corley SRL)",
+        "room_4": "It's time to go Native! (with JavaScript and React Native) Mobile Gianluca Esposito (System Management)",
+        "room_5": "Docker 101 Devops Luciano Fiandesio (Credit Suisse)",
         "room_3_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1664",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1844",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
         "room_5_link/_source": [
             null,
             "#"
         ],
-        "room_6": "A Multi Layered Approach to Threat Intelligence Security Paolo Passeri (OpenDNS)",
+        "room_6": "An Adventure with ESP8266 firmwares and IOT Makers / IoT Andrea De Gaetano (Darts Engineering)",
         "room_1_link/_text": [
-            "From Big Data to Fast Data: Apache Spark",
+            "Graphs are everywhere!",
             "Big Data"
         ],
         "room_3_link/_source": [
             null,
             "#"
         ],
+        "room_7": "Why You Should Start Making Games Right Now Game Dev Marina Rossi (Game Happens), Federico Fasce (Game Happens!)",
         "room_5_link/_text": [
-            "Wordpress gestione delle installazioni e scalabilità con Docker",
-            "Cloud"
+            "Docker 101",
+            "Devops"
         ],
-        "room_9": "Time Travel for game development with Elm Functional Programming Claudia Doppioslash (Starship)",
-        "room_9_link/_text": [
-            "Time Travel for game development with Elm",
-            "Functional Programming"
-        ],
-        "room_1": "From Big Data to Fast Data: Apache Spark Big Data Stefano Baghino (DATABIZ srl)",
-        "room_2": "Use Ionic framework to develop mobile application Mobile Lucio Grenzi (freelance)",
-        "room_3": "Is WebAssembly the killer of JavaScript Languages Boyan Mihaylov (Unipension)",
-        "room_1_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1636",
-            "http://milan2015.codemotionworld.com/conference/321/#"
-        ],
-        "room_2_link/_text": [
-            "Use Ionic framework to develop mobile application",
-            "Mobile"
-        ],
-        "room_6_link/_text": [
-            "A Multi Layered Approach to Threat Intelligence",
-            "Security"
-        ],
-        "room_9_link/_source": [
+        "room_4_link/_source": [
             null,
             "#"
         ],
-        "room_2_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1650",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+        "room_1": "Graphs are everywhere! Big Data Andrea Iacono (JUG Milano)",
+        "room_7_link": [
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1848",
+            "http://milan2015.codemotionworld.com/conference/322/#"
+        ],
+        "room_3": "Reactive Extensions (Rx) 101 Reactive Programming Tamir Dresher (CodeValue)",
+        "room_1_link": [
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1842",
+            "http://milan2015.codemotionworld.com/conference/322/#"
+        ],
+        "room_4_link": [
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1845",
+            "http://milan2015.codemotionworld.com/conference/322/#"
+        ],
+        "room_6_link/_text": [
+            "An Adventure with ESP8266 firmwares and IOT",
+            "Makers / IoT"
         ],
         "room_3_link/_text": [
-            "Is WebAssembly the killer of JavaScript",
-            "Languages"
+            "Reactive Extensions (Rx) 101",
+            "Reactive Programming"
         ],
         "room_5_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1692",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1846",
+            "http://milan2015.codemotionworld.com/conference/322/#"
+        ],
+        "room_7_link/_text": [
+            "Why You Should Start Making Games Right Now",
+            "Game Dev"
+        ],
+        "room_4_link/_text": [
+            "It's time to go Native! (with JavaScript and React Native)",
+            "Mobile"
         ],
         "room_1_link/_source": [
             null,
             "#"
         ],
-        "room_2_link/_source": [
-            null,
-            "#"
-        ],
         "room_6_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1706",
-            "http://milan2015.codemotionworld.com/conference/321/#"
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1847",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
-        "room_9_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=2196",
-            "http://milan2015.codemotionworld.com/conference/321/#"
-        ],
-        "time": "17:10 / 18:00"
+        "time": "17:10 / 17:50"
+    },
+    {
+        "room_0": "Closing",
+        "time": "18:00 / 18:20"
     },
     {
         "room_0": "Networking beer",
-        "time": "18:00 / 18:40"
-    },
-    {
-        "room_0": "Tech Meetup",
-        "time": "18:40 / 19:40"
+        "time": "18:20 / 19:00"
     }
 ]

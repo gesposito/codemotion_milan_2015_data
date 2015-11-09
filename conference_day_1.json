@@ -11,7 +11,9 @@
         "room_0": "Keynote KeyNote: From old to new IBM, leading to cognitive era by Frederic Lavigne",
         "room_0_link/_text": "KeyNote: From old to new IBM, leading to cognitive era by Frederic Lavigne",
         "time": "09:40 / 10:15",
-        "room_0_link": "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1627&sub=1"
+        "room_0_link": [
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1627&sub=1"
+        ]
     },
     {
         "room_0": "Keynote Keynote track Motivational - Room 1: - A programmer is... - by Birgitta Boeckeler",
