@@ -14,14 +14,22 @@
         "room_0_link": "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1627&sub=1"
     },
     {
-        "room_0": "Keynote Keynote track Motivational - Room 1: - A programmer is... - by Birgitta Boeckeler Keynote track Methods - Room 2: Quality is a variable - by James Higgs",
+        "room_0": "Keynote track Motivational - Room 1: - A programmer is... - by Birgitta Boeckeler",
         "room_0_link/_text": [
-            "Keynote track Motivational - Room 1: - A programmer is... - by Birgitta Boeckeler",
             "Keynote track Methods - Room 2: Quality is a variable - by James Higgs"
         ],
         "time": "10:15 / 11:00",
         "room_0_link": [
-            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1980&sub=1",
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1980&sub=1"
+        ]
+    },
+    {
+        "room_0": "KeynoteKeynote track Methods - Room 2: Quality is a variable - by James Higgs",
+        "room_0_link/_text": [
+            "Keynote track Motivational - Room 1: - A programmer is... - by Birgitta Boeckeler",
+        ],
+        "time": "10:15 / 11:00",
+        "room_0_link": [
             "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1980&sub=2"
         ]
     },
