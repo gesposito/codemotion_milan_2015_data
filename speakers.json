@@ -450,9 +450,9 @@
         "liquid_image": "http://mediarepository.codemotionworld.com/img/users/1585.jpg"
     },
     {
-        "titlepost_value": "Frédéric Lavigne",
+        "titlepost_value": "Frederic Lavigne",
         "link": "http://milan2015.codemotionworld.com//wp/speaker/889",
-        "link/_text": "Frédéric Lavigne",
+        "link/_text": "Frederic Lavigne",
         "liquid_image": "http://mediarepository.codemotionworld.com/img/users/889.jpg"
     },
     {
@@ -480,9 +480,9 @@
         "liquid_image": "http://mediarepository.codemotionworld.com/img/users/735.jpg"
     },
     {
-        "titlepost_value": "Michele Giannone",
+        "titlepost_value": "Andrea Bonsignore",
         "link": "http://milan2015.codemotionworld.com//wp/speaker/1540",
-        "link/_text": "Michele Giannone",
+        "link/_text": "Andrea Bonsignore",
         "liquid_image": "http://mediarepository.codemotionworld.com/img/users/1540.jpg"
     },
     {
@@ -492,9 +492,9 @@
         "liquid_image": "http://mediarepository.codemotionworld.com/img/users/1581.jpg"
     },
     {
-        "titlepost_value": "Andrea Magnrosky",
+        "titlepost_value": "Andrea Magnorsky",
         "link": "http://milan2015.codemotionworld.com//wp/speaker/1524",
-        "link/_text": "Andrea Magnrosky",
+        "link/_text": "Andrea Magnorsky",
         "liquid_image": "http://mediarepository.codemotionworld.com/img/users/1524.jpg"
     },
     {
@@ -546,12 +546,6 @@
         "liquid_image": "http://mediarepository.codemotionworld.com/img/users/849.jpg"
     },
     {
-        "titlepost_value": "Ran Nachmany",
-        "link": "http://milan2015.codemotionworld.com//wp/speaker/1622",
-        "link/_text": "Ran Nachmany",
-        "liquid_image": "http://mediarepository.codemotionworld.com/img/users/1622.jpg"
-    },
-    {
         "titlepost_value": "Alfredo Morresi",
         "link": "http://milan2015.codemotionworld.com//wp/speaker/391",
         "link/_text": "Alfredo Morresi",
@@ -562,5 +556,41 @@
         "link": "http://milan2015.codemotionworld.com//wp/speaker/1667",
         "link/_text": "Robbie McCorkell",
         "liquid_image": "http://mediarepository.codemotionworld.com/img/users/1667.jpg"
+    },
+    {
+        "titlepost_value": "Ran Nachmany",
+        "link": "http://milan2015.codemotionworld.com//wp/speaker/1622",
+        "link/_text": "Ran Nachmany",
+        "liquid_image": "http://mediarepository.codemotionworld.com/img/users/1622.jpg"
+    },
+    {
+        "titlepost_value": "Francesco Baldassarri",
+        "link": "http://milan2015.codemotionworld.com//wp/speaker/399",
+        "link/_text": "Francesco Baldassarri",
+        "liquid_image": "http://mediarepository.codemotionworld.com/img/users/399.jpg"
+    },
+    {
+        "titlepost_value": "Gianluigi Viganò",
+        "link": "http://milan2015.codemotionworld.com//wp/speaker/1682",
+        "link/_text": "Gianluigi Viganò",
+        "liquid_image": "http://mediarepository.codemotionworld.com/img/users/1682.jpg"
+    },
+    {
+        "titlepost_value": "Ennio Pirolo",
+        "link": "http://milan2015.codemotionworld.com//wp/speaker/1678",
+        "link/_text": "Ennio Pirolo",
+        "liquid_image": "http://mediarepository.codemotionworld.com/img/users/1678.jpg"
+    },
+    {
+        "titlepost_value": "Guido Pezzin",
+        "link": "http://milan2015.codemotionworld.com//wp/speaker/1681",
+        "link/_text": "Guido Pezzin",
+        "liquid_image": "http://mediarepository.codemotionworld.com/img/users/1681.jpg"
+    },
+    {
+        "titlepost_value": "Shai Yallin",
+        "link": "http://milan2015.codemotionworld.com//wp/speaker/1674",
+        "link/_text": "Shai Yallin",
+        "liquid_image": "http://mediarepository.codemotionworld.com/img/users/1674.jpg"
     }
 ]
