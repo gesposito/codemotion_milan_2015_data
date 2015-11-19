@@ -47,7 +47,7 @@
             "#"
         ],
         "room_4": "Real World Use Cases: Hadoop and NoSQL in Production Big Data Tugdual Grall (MapR Technologies)",
-        "room_5": "TDD per Android Mobile Matteo Vaccari (Agile Reloaded)",
+        "room_5": "TDD per Android Mobile Matteo Vaccari (ThoughtWorks)",
         "room_3_link": [
             "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1657",
             "http://milan2015.codemotionworld.com/conference/321/#"
@@ -71,7 +71,7 @@
             "Mobile"
         ],
         "room_8": "Developers vs. Managers Methods Jacopo Romei (Onebip), Lorenzo Massacci (e-xtrategy)",
-        "room_9": "Having fun with cradboards, nerf guns, tango and VR. Mobile Ran Nachmany (Google)",
+        "room_9": "Having fun with cradboards, nerf guns, tango and VR. Mobile Ran Nachmany (Google), Alfredo Morresi (Google)",
         "room_9_link/_text": [
             "Having fun with cradboards, nerf guns, tango and VR.",
             "Mobile"
@@ -166,6 +166,7 @@
             null,
             "#"
         ],
+        "room_4": "Intel IoT: 'Make Everything Smart'\u000b Makers / IoT Francesco Baldassarri (Intel Corporation)",
         "room_3_link": [
             "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1658",
             "http://milan2015.codemotionworld.com/conference/321/#"
@@ -181,10 +182,14 @@
         ],
         "room_7": "Start-up & API Economy: opportunità e benefici Startup Alexio Cassani (Stentle)",
         "room_8": "Developers vs. Managers Methods Jacopo Romei (Onebip), Lorenzo Massacci (e-xtrategy)",
-        "room_9": "Procedural Content Generation with Unity Game Dev Pier Luca Lanzi (Politecnico di Milano), Michele Pirovano (Politecnico di Milano)",
+        "room_9": "Platformer 2D: jumping from XNA to Unity Game Dev Paolo Cattaneo (Raven Travel Studios)",
         "room_9_link/_text": [
-            "Procedural Content Generation with Unity",
+            "Platformer 2D: jumping from XNA to Unity",
             "Game Dev"
+        ],
+        "room_4_link/_source": [
+            null,
+            "#"
         ],
         "room_1": "In Defense of the Floppy Disk: The Vocabulary of the Interface User Experience Lis Pardi (Digitas Health)",
         "room_7_link": [
@@ -200,6 +205,10 @@
         "room_2_link/_text": [
             "L'ecosistema della scena Hacker",
             "Security"
+        ],
+        "room_4_link": [
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1672",
+            "http://milan2015.codemotionworld.com/conference/321/#"
         ],
         "room_6_link/_text": [
             "Secure Continuous Delivery - Sicurezza e DevOps a supporto della Digital Transformation",
@@ -224,6 +233,10 @@
         "room_7_link/_text": [
             "Start-up & API Economy: opportunità e benefici",
             "Startup"
+        ],
+        "room_4_link/_text": [
+            "Intel IoT: 'Make Everything Smart'",
+            "Makers / IoT"
         ],
         "room_1_link/_source": [
             null,
@@ -280,7 +293,7 @@
         ],
         "room_7": "Be a designer in the start-up world User Experience Emanuela Damiani (HitFox Group)",
         "room_8": "Be aware!!! Build a Context Aware Application using FIWARE Architecture Attilio Broglio (Create-net)",
-        "room_9": "F#, not a game!!! Game Dev Andrea Magnrosky (Digital Furnace Games)",
+        "room_9": "F#, not a game!!! Game Dev Andrea Magnorsky (Digital Furnace Games)",
         "room_9_link/_text": [
             "F#, not a game!!!",
             "Game Dev"
@@ -395,9 +408,9 @@
             "Methods"
         ],
         "room_8": "Be aware!!! Build a Context Aware Application using FIWARE Architecture Attilio Broglio (Create-net)",
-        "room_9": "Platformer 2D: jumping from XNA to Unity Game Dev Paolo Cattaneo (Raven Travel Studios)",
+        "room_9": "Procedural Content Generation with Unity Game Dev Pier Luca Lanzi (Politecnico di Milano), Michele Pirovano (Politecnico di Milano)",
         "room_9_link/_text": [
-            "Platformer 2D: jumping from XNA to Unity",
+            "Procedural Content Generation with Unity",
             "Game Dev"
         ],
         "room_1": "The Dark Side of Malware Analysis Security Andrea Pompili (Mine)",
@@ -405,15 +418,15 @@
             "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1717",
             "http://milan2015.codemotionworld.com/conference/321/#"
         ],
-        "room_2": "Comparing different concurrency models on the JVM Languages Mario Fusco (Red Hat)",
-        "room_3": "Trophy Winning Teams Front-end Adam Onishi (dxw)",
+        "room_2": "Trophy Winning Teams Front-end Adam Onishi (dxw)",
+        "room_3": "Costruire applicazioni Real-Time con Polymer e Firebase Server-side Michel Murabito (Google)",
         "room_1_link": [
             "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1633",
             "http://milan2015.codemotionworld.com/conference/321/#"
         ],
         "room_2_link/_text": [
-            "Comparing different concurrency models on the JVM",
-            "Languages"
+            "Trophy Winning Teams",
+            "Front-end"
         ],
         "room_6_link/_text": [
             "The new Mobile Challenge: Offline-Enablement for Web Applications",
@@ -428,8 +441,8 @@
             "http://milan2015.codemotionworld.com/conference/321/#"
         ],
         "room_3_link/_text": [
-            "Trophy Winning Teams",
-            "Front-end"
+            "Costruire applicazioni Real-Time con Polymer e Firebase",
+            "Server-side"
         ],
         "room_5_link": [
             "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1689",
@@ -660,9 +673,5 @@
     {
         "room_0": "Networking beer",
         "time": "18:00 / 18:40"
-    },
-    {
-        "room_0": "Tech Meetup",
-        "time": "18:40 / 19:40"
     }
 ]

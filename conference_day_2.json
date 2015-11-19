@@ -37,9 +37,14 @@
             "#"
         ],
         "room_4": "Docker: Why, What, and For What? Cloud Adrian Mouat (Container Solutions)",
+        "room_5": "How to use HP HEAVEN-on-demand functions for Big Data apps Big Data Gianluigi Viganò (HP Enterprise)",
         "room_3_link": [
             "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1774",
             "http://milan2015.codemotionworld.com/conference/322/#"
+        ],
+        "room_5_link/_source": [
+            null,
+            "#"
         ],
         "room_6": "Robotics for JS Makers / IoT Julian Cheal (Oracle)",
         "room_1_link/_text": [
@@ -50,7 +55,11 @@
             null,
             "#"
         ],
-        "room_7": "The evolution in the design of FATAL ERROR Game Dev Ciro Continisio (Tiny Colossus)",
+        "room_7": "The evolution in the design of FATAL ERROR Game Dev Ciro Continisio (Tiny Colossus), Ennio Pirolo (Team ERROR)",
+        "room_5_link/_text": [
+            "How to use HP HEAVEN-on-demand functions for Big Data apps",
+            "Big Data"
+        ],
         "room_8": "Women super code lab – Improve your skills with TDD Pair Programming code session Languages Manuela Munaretto (XPeppers), Gabriele Lana (CleanCode), Filippo Liverani (XPeppers)",
         "room_4_link/_source": [
             null,
@@ -86,6 +95,10 @@
         "room_3_link/_text": [
             "UX for Developers. Seriously!",
             "User Experience"
+        ],
+        "room_5_link": [
+            "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1776",
+            "http://milan2015.codemotionworld.com/conference/322/#"
         ],
         "room_8_link": [
             "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1779",
@@ -131,7 +144,7 @@
             "#"
         ],
         "room_4": "Perché nel 2015 parliamo ancora di C++? Languages Marco Arena (Webshell)",
-        "room_5": "IBM Bluemix: The Cloud APP revolution Cloud Frédéric Lavigne (IBM), Lavigne Frederic (IBM)",
+        "room_5": "IBM Bluemix: The Cloud APP revolution Cloud Frederic Lavigne (IBM), Frederic Lavigne (IBM)",
         "room_3_link": [
             "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1784",
             "http://milan2015.codemotionworld.com/conference/322/#"
@@ -349,7 +362,7 @@
             null,
             "#"
         ],
-        "room_7": "InvaderGames - Dalle Game Jam al Giapppone Game Dev Michele Giannone (InvaderGames)",
+        "room_7": "InvaderGames - Dalle Game Jam al Giapppone Game Dev Andrea Bonsignore (InvaderGames)",
         "room_8": "Lab Handson: Cloud - Build a Microservices System with Bluemix Cloud Roberto Pozzi (IBM)",
         "room_4_link/_source": [
             null,
@@ -523,7 +536,7 @@
             null,
             "#"
         ],
-        "room_4": "It's time to go Native! (with JavaScript and React Native) Mobile Gianluca Esposito (System Management)",
+        "room_4": "It's time to go Native! (with JavaScript and React Native) Mobile Gianluca Esposito (Freelance)",
         "room_5": "Docker 101 Devops Luciano Fiandesio (Credit Suisse)",
         "room_3_link": [
             "http://milan2015.codemotionworld.com/wp-content/themes/event/detail-talk.php?detail=1844",
